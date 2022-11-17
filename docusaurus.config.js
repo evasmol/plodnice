@@ -40,6 +40,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: 'Poslední články',
+          blogSidebarCount: 'ALL',
+          // blogTagsPostsComponent: '../src/components/TagList.tsx',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
@@ -67,13 +70,7 @@ const config = {
             position: 'left',
             label: 'O mě',
           },
-          {
-            type: 'doc',
-            docId: 'clanky',
-            position: 'left',
-            label: 'Články',
-          },
-          { to: '/blog', label: 'Aktuality', position: 'left' },
+          { to: '/blog', label: 'Články', position: 'left' },
           {
             type: 'doc',
             docId: 'pribehy',
@@ -86,7 +83,7 @@ const config = {
         id: 'brand_header',
         content: `
         <div id="brand_header">
-          <img src="https://i.imgur.com/sISYPFd.png">
+          <img src="https://i.imgur.com/UK5x1gc.png">
           <div>
             <h1 class="hero__title">Plodnice</h1>
             <p class="hero__subtitle">Cesty k rodičovství</p>
