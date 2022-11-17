@@ -1,17 +1,6 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+eva:
+  name: Eva Šmolíková
+  title: Královna Vesmíru
+  url: TODO_LINK_INSTAC
+  image_url: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.kB2fWdzpS4UL8IVQb1rDIwHaJ4%26pid%3DApi&f=1&ipt=a0300dc528ce646426af97490db47c17e2ffcf156d56318fb0be5c3b6f72d406&ipo=images
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png

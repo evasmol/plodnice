@@ -50,3 +50,7 @@
 #brand_header img {
   height: 180px;
 }
+
+.navbar__items {
+  justify-content: center;
+}
