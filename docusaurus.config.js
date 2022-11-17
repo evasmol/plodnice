@@ -7,10 +7,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Plodnice',
-  tagline: 'TODO',
+  tagline: 'Cesty k rodičovství',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -73,7 +73,7 @@ const config = {
             position: 'left',
             label: 'Články',
           },
-          // { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Aktuality', position: 'left' },
           {
             type: 'doc',
             docId: 'pribehy',
@@ -89,7 +89,7 @@ const config = {
           <img src="https://i.imgur.com/sISYPFd.png">
           <div>
             <h1 class="hero__title">Plodnice</h1>
-            <p class="hero__subtitle">TODO</p>
+            <p class="hero__subtitle">Cesty k rodičovství</p>
           </div>
           <div>
         `,
@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                href: 'https://TODO',
+                href: 'https://www.instagram.com/plodnice/',
               },
             ],
           },
