@@ -1,5 +1,4 @@
 ---
-slug: pribehy
 title: Příběhy
 displayed_sidebar: pribehySidebar
 ---

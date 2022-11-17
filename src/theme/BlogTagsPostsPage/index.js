@@ -52,14 +52,14 @@ function BlogTagsPostsPageMetadata({tag}) {
 
 function getText(label) {
   const NEPLODNOST = `(NE)PLODNOST: je základní informační sekce věnovaná plodnosti a jejím poruchám. Najdete zde nejběžnější důvody, které k poruchám plodnosti vedou. Mojí snahou bude, aby články v této sekci tématicky a logicky navazovaly. Najdete zde i popis jednotlivých vyšetření, která mohou příčinu zhoršené plodnosti objasnit.`
-  const PLANETA = `PALETA POMOCI: má za úkol přiblížit možnosti, ze kterých neplodné páry volí, pokud se rozhodnou k řešení přizvat někoho dalšího. Své místo zde mají metody asistované reprodukce, metody podpůrné (masáže, aromaterapie, akupunktura,...), psychoterapie a další. Věřím, že se s různými formami pomoci setkáme též ve Vašich příbězích.`
+  const PALETA = `PALETA POMOCI: má za úkol přiblížit možnosti, ze kterých neplodné páry volí, pokud se rozhodnou k řešení přizvat někoho dalšího. Své místo zde mají metody asistované reprodukce, metody podpůrné (masáže, aromaterapie, akupunktura,...), psychoterapie a další. Věřím, že se s různými formami pomoci setkáme též ve Vašich příbězích.`
   const VYZVY = `VÝZVY PRO DUŠI: neplodnost pokládám za nevyžádanou možnost k seberozvoji. Chystám sem články o oblastech našeho života, které jsou neplodností ovlivněny a o práci se sebou, která nám může v konečném důsledku pomoci nejen v řešení neplodnosti.`
   const KONTROVERZE = `KONTROVERZE: Všimla jsem si myšlenkové brzdy, která se mi aktivuje ve spojistosti s některými aspekty řešení neplodnosti, často se jedná o témata vyvolávající celospolečenskou debatu. Mými kontroverzemi čekajícími na zpracování nyní jsou: adopce jako kompenzace bezdětnosti, věk pacientek podstupujících léčbu neplodnosti, rodičovství plánované jednou osobou, dárcovství vajíček a spermií, využití náhradní matky. Předpokládám, že další témata na sebe nenechají dlouho čekat.`
   switch (label) {
     case '(ne)plodnost':
       return NEPLODNOST
-    case 'planeta pomoci':
-      return PLANETA
+    case 'paleta pomoci':
+      return PALETA
     case 'výzvy pro duši':
       return VYZVY
     case 'kontroverze':
