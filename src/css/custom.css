@@ -28,3 +28,16 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.announcementBar_node_modules-\@docusaurus-theme-classic-lib-theme-AnnouncementBar-styles-module,
+#brand_header {
+  height: 300px !important;
+}
+
+#brand_header img {
+  padding-top: 40px;
+}
+
+#brand_header img {
+  height: 150px;
+}
