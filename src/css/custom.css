@@ -34,10 +34,19 @@
   height: 300px !important;
 }
 
-#brand_header img {
-  padding-top: 40px;
+#brand_header {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+
+#brand_header * {
+  margin: 0;
+  text-align: left;
+  /* font-size: 3rem; */
 }
 
 #brand_header img {
-  height: 150px;
+  height: 180px;
 }

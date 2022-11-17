@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer/themes/github')
+const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -36,15 +36,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -69,7 +67,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -79,10 +77,17 @@ const config = {
       },
       announcementBar: {
         id: 'brand_header',
-        content:
-          '<div id="brand_header"><img src="https://i.imgur.com/sISYPFd.png"><h1>Plodnice</h1><div>',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
+        content: `
+        <div id="brand_header">
+          <img src="https://i.imgur.com/sISYPFd.png">
+          <div>
+            <h1 class="hero__title">Plodnice</h1>
+            <p class="hero__subtitle">TODO</p>
+          </div>
+          <div>
+        `,
+        backgroundColor: 'var(--ifm-color-primary)',
+        textColor: 'var(--ifm-font-color-base-inverse)', // var(--ifm-heading-color)
         isCloseable: false,
       },
       footer: {
@@ -135,6 +140,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-};
+}
 
-module.exports = config;
+module.exports = config
