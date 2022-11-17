@@ -82,13 +82,13 @@ const config = {
       announcementBar: {
         id: 'brand_header',
         content: `
-        <div id="brand_header">
-          <img src="https://i.imgur.com/UK5x1gc.png">
+        <a href="/" id="brand_header">
+          <img src="https://i.imgur.com/UK5x1gc.png" />
           <div>
             <h1 class="hero__title">Plodnice</h1>
             <p class="hero__subtitle">Cesty k rodičovství</p>
           </div>
-          <div>
+        </a>
         `,
         backgroundColor: 'var(--ifm-color-primary)',
         textColor: 'var(--ifm-font-color-base-inverse)', // var(--ifm-heading-color)
