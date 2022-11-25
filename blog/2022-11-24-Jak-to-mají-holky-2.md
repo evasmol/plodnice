@@ -1,13 +1,9 @@
 ---
-slug: Jak to mají holky 2
-title: Jak to mají holky 2
+slug: Jak to mají holky
+title: Jak to mají holky
 authors: eva
 tags: [(ne)plodnost]
-# Jak to mají holky 2
-
-- [ ] Co bychom měli vědět o menstruačním cyklu
-- [ ] Hormony, které znamenají svět 
-
+---
 ## Menstruační cyklus:
 ##### 
 Během puberty začnou střídavě na pravém a levém vaječníku dozrávat a uvolňovat se vajíčka. Aktivita vaječníků je cyklická a cyklus nazýváme menstruační. Rozmezí nástupu první menstruace je poměrně široké, v odhadování nástupu u konkrétní dívky lze usuzovat tělesných změn, které nástupu cyklu zpravidla předchází. Většina dívek začíná menstruovat zhruba 2 roky poté, co jim začnou růst prsa, bývá to mezi 10. a 16. rokem.
