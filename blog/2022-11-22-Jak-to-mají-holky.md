@@ -1,6 +1,6 @@
 ---
-slug: Jak to mají holky 2
-title: Jak to mají holky 2
+slug: Jak to mají holky 
+title: Jak to mají holky 
 authors: eva
 tags: [(ne)plodnost]
 ---
