@@ -66,9 +66,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'o-me',
+            docId: 'o-mne',
             position: 'left',
-            label: 'O mě',
+            label: 'O mně',
           },
           { to: '/blog', label: 'Články', position: 'left' },
           {
