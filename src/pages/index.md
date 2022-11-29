@@ -5,3 +5,4 @@ Vítejte na Plodnici, webu věnovaném (ne)plodnosti. Přeji si, abychom na cest
 Ať Vám web dobře poslouží a neváhejte mi poslat vzkaz či tipy na témata, která Vám zde ještě chybí. Budu moc ráda, pokud se podělíte o svůj příběh, napsat ho můžete zde, nebo na e-mail evi.smolik@gmail.com.
 
 Eva
+![](https://i.imgur.com/ub7ji0h.jpg)
