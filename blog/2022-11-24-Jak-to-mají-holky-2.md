@@ -43,4 +43,5 @@ Potřebujeme, aby se hormony tvořily ve správném množství a poměru. Hormon
 **Prolaktin**: hormon vznikající v hypofýze a ovlivňující řadu tělesných procesů. Když je ho hodně, způsobí pokles GnRH a útlum menstruačního cyklu. Hodně ho je mimo jiné při plném kojení, proto může plné kojení působit antikoncepčně
 
 > **K čemu to všechno:**  Hodnocení množství a vzájemného poměru jednotlivých hormonů nechme na specialistovi. Pro nás je podstatné, že během menstruačního cyklu se hladiny jednotlivých hormonů mění a že jednak nás bude zajímat, zda naše tělo má hormonální hladiny v pořádku (zjišťuje se pomocí vyšetření hormonálního profilu) a jednak jsou hormonální přípravky fungující na stejném principu jako tělu vlastní hormony používány během řešení neplodnosti.
-> ![](https://i.imgur.com/cqxzOlS.jpg)
+
+![](https://i.imgur.com/EL1bNAZ.jpg)
