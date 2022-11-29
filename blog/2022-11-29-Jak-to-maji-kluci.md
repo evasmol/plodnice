@@ -23,3 +23,4 @@ Na rozdíl od žen, u kterých se celoživotní zásoba vajíček ve vaječníc�
 
 ## Reprodukční období muže
 Muž/chlapec je schopen počít potomka ve chvíli, kdy je schopen ejakulovat. Plodnost trvá až do andropauzy, což je obdoba menopauzy u žen, a to průměrně ve věku 50-55 let,kdy dochází k poklesu testosteronu.[Více o andropauze zde.](https://www.medbroadcast.com/condition/getcondition/andropause)U některých mužů andropauza nastupuje mnohem později. V Guinessově knize rekordů je zapsán Ind, který zplodil své poslední dítě v 90 letech. Ovšem i mužská plodnost s věkem klesá a naopak vzrůstá pravděpodobnost početí potomka s genetickou vadou. 
+![](https://i.imgur.com/voOvqkl.png)
