@@ -1,5 +1,5 @@
 ---
-slug: Intersex 
+slug: Jedinci s variacemi pohlavních znaků
 title: Jedinci s variacemi pohlavních znaků
 authors: eva
 tags: [(ne)plodnost]
