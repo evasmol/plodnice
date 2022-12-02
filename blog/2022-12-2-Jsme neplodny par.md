@@ -29,7 +29,7 @@ Opakem plodnosti je **neplodnost**, která může být **relativní** (v takové
 **Sekundární neplodnost**= stav, kdy v minulosti bylo těhotenství dosaženo (sem se schovají i např.opakované spontánní potraty).
 
 ## Neplodný pár
-**O neplodném páru hovoříme ve chvíli, kdy muž a žena při pravidelném nechráněném pohlavním styku po dobu 1 roku nedosáhnou početí**.  Hranice jednoho roku byla stanovena Světovou zdravotnickou organizací, [definice dle WHO zde.](https://www.who.int/news-room/fact-sheets/detail/infertility)
+O neplodném páru hovoříme ve chvíli, kdy muž a žena při pravidelném nechráněném pohlavním styku po dobu 1 roku nedosáhnou početí.  Hranice jednoho roku byla stanovena Světovou zdravotnickou organizací, [definice dle WHO zde.](https://www.who.int/news-room/fact-sheets/detail/infertility)
 
 
 ---
