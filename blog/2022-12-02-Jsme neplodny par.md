@@ -1,6 +1,6 @@
 ---
-slug: Jsme neplodný pár. Co to znamená?
-title: Jsme neplodný pár. Co to znamená?
+slug: Jsme neplodný pár. 
+title: Jsme neplodný pár. 
 authors: eva
 tags: [(ne)plodnost, kontroverze]
 ---
