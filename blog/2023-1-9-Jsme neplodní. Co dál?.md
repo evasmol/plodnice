@@ -1,5 +1,5 @@
 ---
-slug: Jsme neplodní. Co dál?
+slug: jsme-neplodní-co-dal
 title: Jsme neplodní. Co dál?
 authors: eva
 tags: [(ne)plodnost]
