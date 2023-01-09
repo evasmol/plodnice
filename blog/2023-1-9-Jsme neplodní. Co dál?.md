@@ -2,7 +2,7 @@
 slug: Jsme neplodní. Co dál?
 title: Jsme neplodní. Co dál?
 authors: eva
-tags: [(ne)plodnost, kontroverze]
+tags: [(ne)plodnost]
 ---
 # Jsme neplodní. Co dál?
 V dnešním článku přeskočíme příčiny neplodnosti a a rozebereme možnosti neplodného páru, ve kterém není u ženy ani muže situace (či, řekněme, diagnóza) vylučující těhotenství. Řekněme, že žena pravidelně menstruuje a páru se během roku nechráněného pohlavního styku nepodařilo otěhotnět. Co dál?
