@@ -5,7 +5,7 @@ authors: eva
 tags: [(ne)plodnost]
 ---
 
-![](https://hackmd.io/_uploads/BkgnND5h2.jpg)
+![]([https://hackmd.io/_uploads/BkgnND5h2.jpg](https://imgur.com/a/ybEJq0b))
 
 Nemládnu. Nemládneš. Nemládneme totiž nikdo. Průměrný věk prvorodiček se zvyšuje. Připadá mi, že mluvit o věku v souvislosti s plánováním rodiny je trochu tenký led, neboť je obvyklé těhotnění odsouvat a není výjimkou, že páry začnou plánovat rodinu po třicítce, nebo dokonce blíže čtyřicítce ženy. Každý známe někoho, u koho vyšší věk nebyl v založení rodiny překážkou.
 
