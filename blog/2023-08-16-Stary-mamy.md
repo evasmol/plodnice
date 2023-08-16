@@ -30,7 +30,7 @@ Líbí se mi formulace, že **jsou ženy, které nemají v otázce rodičovství
  
 Loučí se stará matka. Držím nám všem, bez ohledu na věk, palce.
 
-![](https://hackmd.io/_uploads/ry30Ewq3h.jpg)
+![](https://i.imgur.com/kzocXnM.jpg)
 
 
 
