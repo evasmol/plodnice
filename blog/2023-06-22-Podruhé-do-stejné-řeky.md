@@ -30,5 +30,5 @@ Připadám si rozdvojená. Máme vytoužené děťátko a daří se nám společ
 
 ### Myslela jsem si, že napodruhé to bude jednodušší
 Pamatuju si dost přesně, jak to bylo napoprvé. Vyjmenovala bych vyšetření, jaká máme za sebou i posloupnost celého procesu. Co mi ale z hlavy zmizelo je, jak jsem se cítila, jak nám tahle zkušenost cvičila s partnerským soužitím, jak se nám zakousla do života. Povedlo se to, nakonec. Teď se pomalu rozpomínám, jsem v tom zase až po uši. Nacházíme se s manželem na jiném místě v životě než napoprvé a přesto mi je, jako kdybychom oklikou přišli na stejné rozcestí. Jsem zvědavá, kam dojdeme tentokrát. 
-![](https://hackmd.io/_uploads/BJxir5bun.jpg)
+![](blob:https://imgur.com/f859f51c-d382-4bbc-8667-34dd047c440c)
 
